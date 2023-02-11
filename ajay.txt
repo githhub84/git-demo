@@ -1,0 +1,4 @@
+#!/bin/bash
+echo 'hello ajey  how are you'
+good
+
